@@ -1,1 +1,1 @@
-台湾电视台,http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
+台湾电视台,http://61.216.177.73/sta/ch10119037.m3u8
